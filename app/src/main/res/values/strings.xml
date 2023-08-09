@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">GoT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="continent_name">Asia</string>
+    <string name="welcome_back_message">Welcome Back.</string>
+    <string name="username">Jerim</string>
+    <string name="characters_heading">Thrones Characters.</string>
+    <string name="name_initials">JK</string>
+    <string name="continents_title">Well Known Continents.</string>
+    <string name="characters_name">Characters Name</string>
+    <string name="family_name">Sparrow The Gas</string>
+    <string name="popular_families">Popular Families</string>
+    <string name="comma">,</string>
+    <string name="age">19 Years</string>
+    <string name="detail_name">Location</string>
+    <string name="family">Family</string>
+    <string name="description">The latest Android Beta version shows signs of a much detailed dark mode roll out unlike what was expected. As reported by WABetaInfo, a blog that tracks WhatsApp developments, the app\'s Android Beta version 2.20.31 highlights that new dark solid colours are available in the build. This essentially means that there is a possibility that the dark mode feature can have other dark colours instead of just black.</string>
+    <string name="onboard_description">The latest Android Beta version shows signs of a much detailed dark mode roll out unlike what was expected. As reported by WABetaInfo, a blog that tracksuild.</string>
+    <string name="menu_image">Humber Image</string>
+    <string name="thrones_is_here">Thrones is Here.</string>
+    <string name="next">next</string>
+    <string name="save">save</string>
+    <string name="profile_name">Username</string>
+    <string name="profile_name_key">profile_name</string>
+    <string name="profile_name_default">John Doe</string>
+    <string name="profile_preference_key">profile_data_preference_key</string>
+    <string name="greeting_text">Good Morning</string>
+
+    <string name="morning_greeting">Good Morning, </string>
+    <string name="morning_message">I wake up every morning literally with a smile on my face, grateful for another day.</string>
+
+    <string name="afternoon_greeting">Good Afternoon,</string>
+    <string name="afternoon_message">How I hope you have a refreshing afternoon. Take a deep breath, and you will smell the love in the air.</string>
+
+    <string name="evening_greeting">Good Morning</string>
+    <string name="evening_message">Buddy, may your evening be filled with all the best and beautiful things of life.</string>
+
+    <string name="night_greeting">Good Night</string>
+    <string name="night_message">The best bridge between despair and hope is a good night’s sleep.</string>
+    <string name="first_on_board_description">Power resides where men believe it resides. It’s a trick, a shadow on the wall. And, a very small man can cast a very large shadow.</string>
+    <string name="second_ob_board_description">All my life men like you have sneered at me, and all my life I\'ve been knocking men like you into the dust.</string>
+    <string name="third_on_board_description">You need to take your enemy’s side if you’re going to see things the way they do. — Tyrion Lannister</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_your_email_to_register">Enter your email to register</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_registered">Already Registered?</string>
+    <string name="login">Login</string>
+    <string name="have_no_account">Have no Account?</string>
+    <string name="register">Register</string>
+    <string name="proceed">Proceed</string>
+    <string name="loading">LOADING ...</string>
+    <string name="done">DONE</string>
+    <string name="error">ERROR</string>
+    <string name="enter_email_address">Enter email address</string>
+    <string name="request_verification_link">Request verification Link</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+
+</resources>

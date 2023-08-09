@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#02A86B</color>
+    <color name="colorPrimaryDark">#6F8958</color>
+    <color name="colorAccent">#00967B</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#C8B7B7</color>
+    <color name="viewColor">#00967B</color>
+    <color name="background">#183446</color>
+
+    <color name="textPrimary">#fff</color>
+    <color name="textPrimaryDark">#1D1D35</color>
+
+    <color name="cardBackgroundColor">#2EBB7D</color>
+    <color name="iconBackGroundColor">#183446</color>
+
+</resources>

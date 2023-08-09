@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "424858690423",
+    "firebase_url": "https://jerim-dev-default-rtdb.firebaseio.com",
+    "project_id": "jerim-dev",
+    "storage_bucket": "jerim-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424858690423:android:31112255a48269d8ecb772",
+        "android_client_info": {
+          "package_name": "com.example.hailer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424858690423-04rcufgsis646jlpsom0jd0e78a4q12r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNzrfGvEs2o5PIF0LzhVAqFOY1qAXkokk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424858690423-04rcufgsis646jlpsom0jd0e78a4q12r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424858690423:android:e3b3531eba7f7feaecb772",
+        "android_client_info": {
+          "package_name": "com.example.hailerprovider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424858690423-04rcufgsis646jlpsom0jd0e78a4q12r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNzrfGvEs2o5PIF0LzhVAqFOY1qAXkokk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424858690423-04rcufgsis646jlpsom0jd0e78a4q12r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424858690423:android:6726a7dd67973020ecb772",
+        "android_client_info": {
+          "package_name": "com.jerimkaura.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424858690423-04rcufgsis646jlpsom0jd0e78a4q12r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNzrfGvEs2o5PIF0LzhVAqFOY1qAXkokk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424858690423-04rcufgsis646jlpsom0jd0e78a4q12r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424858690423:android:ac69da4eb8a515ceecb772",
+        "android_client_info": {
+          "package_name": "com.jerimkaura.got"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424858690423-04rcufgsis646jlpsom0jd0e78a4q12r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNzrfGvEs2o5PIF0LzhVAqFOY1qAXkokk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424858690423-04rcufgsis646jlpsom0jd0e78a4q12r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
