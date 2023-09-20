@@ -42,7 +42,7 @@ the libraries are in the stable version.
 #### Getting started
 
 1. Android Studio -> File -> New -> From Version control -> Git
-2. Enter `https://github.com/jerimkaura/GoT.git` into URL field
+2. Enter `https://github.com/jumapaul/GameOfThrone2.git` into URL field
 
 ### Application screenshots
 
